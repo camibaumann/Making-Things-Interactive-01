@@ -7,6 +7,8 @@ Mechanized Ink Painting
 
 Final Product: 
 
+![alt tag](http://https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/trial%20and%20final%20product%20images/img030.jpg)
+
 I have created a video demonstrated the final machine in action and have included the Youtube link below: 
 
 https://www.youtube.com/watch?v=zS0b-3Y6ktA
