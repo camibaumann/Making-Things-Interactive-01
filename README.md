@@ -7,6 +7,8 @@ Mechanized Ink Painting
 
 Final Product: 
 
+![Process Gif](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/gif/Process-Images-GIF.gif?raw=true)
+
 I have created a video demonstrated the final machine in action and have included the Youtube link below: 
 
 https://www.youtube.com/watch?v=zS0b-3Y6ktA
