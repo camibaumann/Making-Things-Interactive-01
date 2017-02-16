@@ -16,14 +16,13 @@ Image: Hirst, Damien . "Spin paintings." www.damienhirst.com. N.p., 2012. Web. 1
  
 # Final Product
 
-var embed = require("embed-video")
+As I progressed through the project, I experimented with various colors, speeds, and dripping coordinates for my work. 
 
-var youtubeUrl = "https://www.youtube.com/watch?v=zS0b-3Y6ktA"
+![alt tag](https://raw.githubusercontent.com/cbaumann/Making-Things-Interactive-01/trial and final product images/img030.jpg)
 
-console.log(embed(youtubeUrl))
 
-var youtubeId = "9XeNNqeHVDw"
+I've created a short video that shows the machine in action: 
 
-console.log(embed.youtube(youtubeId))
+https://www.youtube.com/watch?v=zS0b-3Y6ktA
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zS0b-3Y6ktA" frameborder="0" allowfullscreen></iframe>
+
