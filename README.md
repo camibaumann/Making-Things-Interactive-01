@@ -16,11 +16,4 @@ Image: Hirst, Damien . "Spin paintings." www.damienhirst.com. N.p., 2012. Web. 1
  
 # Final Product
 
-  <object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=zS0b-3Y6ktA" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=zS0b-3Y6ktA"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
-
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/zS0b-3Y6ktA" frameborder="0" allowfullscreen></iframe>
