@@ -5,6 +5,47 @@ Mechanized Ink Painting
 
   One of my main inspirations for this project was Damien Hirst, an artist who uses paint spinning as a medium for his work. I wanted to capture the same playfullness and aesthetic of his work. However, I wanted to question the interaction and control of the art. In classical painting, the boundaries of control of the artist are between the artist's hand and the paintbrush. With this project, I wanted to question the nature of the paintbrush, of the artist's "tool". My claim is that the essence of an artist's tool is a sensor, an interpreter of the artist's intent. Here, the interpreter, or sensor, or artist's tool is the potentiometer and touch sensor. 
 
+![First process Image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_101106.jpg)
+
+![Second process Image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113112.jpg)
+
+![Third process Image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113118.jpg)
+
+![Fourth process Image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113256.jpg)
+
+![Fifth process Image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113314.jpg)
+
+![Sixth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113345.jpg)
+
+![Seventh process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113527.jpg)
+
+![Eighth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113605.jpg)
+
+![Ninth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113747.jpg)
+
+![Tenth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113833.jpg)
+
+![Eleventh process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113916.jpg)
+
+![Twelveth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_113918.jpg)
+
+![Thirteenth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114033.jpg)
+
+![Fourteenth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114348.jpg)
+
+![Fifteenth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114646.jpg)
+
+![Sixteenth process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114808.jpg)
+
+![17th process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114808.jpg)
+
+![18th process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_114955.jpg)
+
+![19th process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_115015.jpg)
+
+![20th process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_115135.jpg)
+
+
 Final Product: 
 
 ![Process Gif](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/gif/Process-Images-GIF.gif?raw=true)
