@@ -23,7 +23,7 @@ I then wired and tested my potentiometer.
 
 I based and altered my wiring layout based on the circuit diagram found on p147 of "The Arduino Projects Book". 
 
-![potentiometer wiring[(https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/potentiometer%20circuit.jpg)
+![potentiometer wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/potentiometer%20circuit.jpg)
 
 
 ![3rd process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_115135.jpg)
