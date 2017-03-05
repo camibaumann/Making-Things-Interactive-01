@@ -31,8 +31,11 @@ I then wired and tested the DC motor for my project. Thus finishing the wiring f
 
 I based the wiring for the portion of my project on the circuit diagram found on p96 of "The Arduino Projects Book". 
 
-[dc motor wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/dc%20motor%20circuit.jpg)
+![dc motor wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/dc%20motor%20circuit.jpg)
 
+Having tested the potentiometer and the dc motor, I then tested two touch sensors powered by an externl power source. 
+
+![touch sensor wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_161159.jpg)
 
 Final Product: 
 
