@@ -25,8 +25,13 @@ I based and altered my wiring layout based on the circuit diagram found on p147 
 
 ![potentiometer wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/potentiometer%20circuit.jpg)
 
+I then wired and tested the DC motor for my project. Thus finishing the wiring for the bottom components of my prototype. 
 
 ![3rd process image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_115135.jpg)
+
+I based the wiring for the portion of my project on the circuit diagram found on p96 of "The Arduino Projects Book". 
+
+[dc motor wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/reference%20images/dc%20motor%20circuit.jpg)
 
 
 Final Product: 
