@@ -37,6 +37,14 @@ Having tested the potentiometer and the dc motor, I then tested two touch sensor
 
 ![touch sensor wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_161159.jpg)
 
+I then wired the solenoid valves to the prototype and connected them to the touch sensors. As such, the solenoid valves were wired and programmed to release ink onto a canvas when the sensors were touched. 
+
+![solenoid valve wiring](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_175219.jpg)
+
+As a reference, I have included a wiring diagram that I created using Fritzing which depicts how to wire the touch sensor with a solenoid valve. 
+
+![touch senor to valve](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/circuit%20diagram/touch%20sensor%20to%20valve.JPG)
+
 Final Product: 
 
 ![Process Gif](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/gif/Process-Images-GIF.gif?raw=true)
