@@ -57,8 +57,15 @@ The support structure in place, I was then able to install the top portion of th
 
 ![frame construction 3](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_232919.jpg)
 
+The final prototype produced some interesting results, in particular with the ink splatters along the side of the prototype (note: make sure to cover your work area before turning on this machine). 
 
+Below are a few images showing the ink splatters along the side of the prototype: 
 
+![ink splatter 1](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/final%20images/IMG_20170215_150240824.jpg)
+
+![ink splatter 2](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/final%20images/IMG_20170215_150220082.jpg)
+
+![final image](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/final%20images/IMG_20170215_150200951.jpg)
 
 
 Final Product: 
