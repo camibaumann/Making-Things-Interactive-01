@@ -45,6 +45,22 @@ As a reference, I have included a wiring diagram that I created using Fritzing w
 
 ![touch senor to valve](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/circuit%20diagram/touch%20sensor%20to%20valve.JPG)
 
+After having wired and tested each sensor, motor, and Arduino separately, I then began to build the frame for my prototype. 
+
+![frame construction 1](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_205849.jpg)
+
+I included an enclosed channel in the design of my prototype in order to ensure that the wires from the touch sensors to the solenoid valves were not disturbed when I moved the prototype. 
+
+![frame construction 2](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_213911.jpg)
+
+The support structure in place, I was then able to install the top portion of the prototype that housed the valves and the ink. 
+
+![frame construction 3](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/progress%20images/IMG_20170212_232919.jpg)
+
+
+
+
+
 Final Product: 
 
 ![Process Gif](https://github.com/camibaumann/Making-Things-Interactive-01/blob/master/gif/Process-Images-GIF.gif?raw=true)
